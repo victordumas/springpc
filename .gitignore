@@ -140,5 +140,13 @@ Desktop.ini
 ######################
 .eslintcache
 
+###################
+# Maven Modules
+###################
 pc-data/target
+pc-data/pom.xml.releaseBackup
+
 pc-web/target
+pc-web/pom.xml.releaseBackup
+
+pom.xml.releaseBackup
