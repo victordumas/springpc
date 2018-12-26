@@ -139,3 +139,6 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+
+pc-data/target
+pc-web/target
